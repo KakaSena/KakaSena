@@ -35,7 +35,7 @@ Previously, I worked in **software engineer at Hotmart**, helping identify and r
 [![Gmail](https://img.shields.io/badge/Email-kakaxsena@email.com-D14836?logo=gmail&logoColor=white)](mailto:kakaxsena@email.com)
 
 
-![Kaká's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakadev&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakadev&layout=compact)
+![Kaká's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakasena&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakasena&layout=compact)
 
 
