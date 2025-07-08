@@ -20,9 +20,9 @@ Previously, I worked at Hotmart, where I helped identify and resolve critical bu
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"></code>
 
 
-- 🎨 I love **painting**.
+- 🎨 I love painting.
 - 🧠 I’m passionate about psychology, especially how people think and behave, which inspires my interest in UX/UI design.
-- 📖 I love to learn new langaugues, currently I'm learning **Japanese** 
+- 📖 I love to learn new langaugues, currently I'm learning Japanese
 - 🛠️ I’m currently doing the EBAC (British School of Creative Arts and Technology) UX/UI Design course
 - 💬 Fun fact: being a TTRPG Dungeon Master greatly helped me sharpen my data storytelling skills.
 
