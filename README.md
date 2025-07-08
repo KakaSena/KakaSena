@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Kaká
 
-I'm a **software engineer** who took a curious and scenic route through tech.
+I'm a **software engineer**.
 
 Currently, I'm growing as a **full-stack developer**, focusing on **React**, **Next.js**, and **Node.js**.  
-My stack also includes **TypeScript**, **MongoDB**, **PostgreSQL**, **Kafka**, **Cypress**, and cloud platforms like **AWS** and **Vercel**.  
-
 Previously, I worked in **software engineer at Hotmart**, helping identify and resolve critical bugs in the main checkout/payment system — a role that sharpened my technical skills and empathy for end-users under pressure.
 
 ## Stack and Tools
