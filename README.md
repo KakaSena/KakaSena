@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Kaká
 
-I'm a **software engineer**.
+I'm a Software Engineer currently growing as a full-stack developer, with a strong focus on React, Next.js, and Node.js.
 
-Currently, I'm growing as a **full-stack developer**, focusing on **React**, **Next.js**, and **Node.js**.  
-Previously, I worked in **software engineer at Hotmart**, helping identify and resolve critical bugs in the main checkout/payment system — a role that sharpened my technical skills and empathy for end-users under pressure.
+Previously, I worked at Hotmart, where I helped identify and resolve critical bugs in the company’s main checkout/payment system. A role that sharpened both my technical skills and my empathy for users, especially in high-pressure environments.
 
 ## Stack and Tools
 
