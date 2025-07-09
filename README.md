@@ -32,6 +32,7 @@ Previously, I worked at Hotmart, where I helped identify and resolve critical bu
 
 
 ![Kaká's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakasena&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakasena&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakasena&layout=compact&theme=dracula)
+
 
 
