@@ -30,12 +30,9 @@ Previously, I worked at Hotmart, where I helped identify and resolve critical bu
 [![LinkedIn](https://img.shields.io/badge/Linkedin-Kaká%20Sena-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaka-sena)
 [![Gmail](https://img.shields.io/badge/Email-kakaxsena@email.com-D14836?logo=gmail&logoColor=white)](mailto:kakaxsena@email.com)
 
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kakasena&show_icons=true&theme=dracula&card_width=400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakasena&layout=compact&theme=dracula&card_width=320"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kakasena&show_icons=true&theme=dracula&card_width=400" alt="Kaká's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakasena&layout=compact&theme=dracula&card_width=320" alt="Top Langs"/>
 </p>
-
-
-
-
