@@ -35,6 +35,8 @@ Previously, I worked at Hotmart, where I helped identify and resolve critical bu
 <p align="center">
   <img height="180em" src="https://github-readme-stats-do83obs78-kakasenas-projects.vercel.app/api?username=kakasena&show_icons=true&theme=dracula&count_private=true" alt="Kaká's GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats-do83obs78-kakasenas-projects.vercel.app/api/top-langs/?username=kakasena&layout=compact&langs_count=8&theme=dracula" alt="Top Languages"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kakasena&theme=dracula&hide_border=false" alt="GitHub Streak"/>
 </p>
+
+
+
 
